@@ -27,6 +27,7 @@ cantModify	Can't modify	Basic	com.livecode.pi.boolean	true	false		false
 cellEdit:revIDEGetTableProperty:revIDESetTableProperty	Cell editing	Table	com.livecode.pi.boolean	true	false		false		
 cellFormat:revIDEGetTableProperty:revIDESetTableProperty	Cell formatting	Table	com.livecode.pi.boolean	true	false		false		
 clickColor	Click color	Colors	com.livecode.pi.color	true	false			
+clipsToRect	Clip child controls to rect	Position	com.livecode.pi.boolean	true	false		false		
 colorOverlay	Color overlay	Effects	com.livecode.pi.graphicEffect	true	false			popup:effectColor,effectBlendMode		
 currentFrame	Frame	Basic	com.livecode.pi.integer	true	false		1			1		1	
 currentNode	Current node	Quicktime	com.livecode.pi.string	true	false			
